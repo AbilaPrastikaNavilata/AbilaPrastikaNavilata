@@ -1,7 +1,7 @@
 <h2> Hi, I'm Abila Prastika Navilata! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="130">
 
-I am a **Computer Science graduate** from Universitas Muhammadiyah Surakarta. I am passionate about building full-stack digital solutions, automating complex workflows, and exploring the frontiers of Artificial Intelligence. I also love bringing creative concepts to life through 3D design and game development.
+I am a **Computer Science graduate**. I am passionate about building full-stack digital solutions, automating complex workflows, and exploring the frontiers of Artificial Intelligence. I also love bringing creative concepts to life through 3D design and game development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbilaPrastikaNavilata) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prastikavila@gmail.com) 
